@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237790122641",
+    "firebase_url": "https://firestore-wallify.firebaseio.com",
+    "project_id": "firestore-wallify",
+    "storage_bucket": "firestore-wallify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237790122641:android:2c0f41f5f47b32694ba530",
+        "android_client_info": {
+          "package_name": "com.dev_app.firestorewallify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237790122641-tqhfn0bqgbbocg47ndncj30drb9l7onj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVl8yOKhE_9KLc-pXDwb36MMOr2YLvqh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237790122641-tqhfn0bqgbbocg47ndncj30drb9l7onj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
